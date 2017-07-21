@@ -30,7 +30,7 @@ This document also includes a host of resources for use for the SSC workshop, al
     AI   - https://goo.gl/swjyLz
     Hog  - https://goo.gl/ZjSfz9
 
-    Note: For projects using OK, run with --local flag; "python3 ok --local"
+    Note: For projects using OK, run ending with the --no-browser flag; "python3 ok --no-browser"
 
     Solutions will be posted on Piazza
 
@@ -40,7 +40,7 @@ This document also includes a host of resources for use for the SSC workshop, al
     a1 - http://goo.gl/RKsqSj
     a2 - http://goo.gl/1XAJeE
 
-    Note: For all assignments, run OK with --local flag; "python3 ok --local"
+    Note: For all assignments, run OK ending with the --no-browser flag; "python3 ok --no-browser"
 
     Solutions will be posted on Piazza
 
