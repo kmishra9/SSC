@@ -28,6 +28,10 @@ python3 -m pip install virtualenv
 python3 -m pip install ok
 
 echo ""
+echo "No __pycache__ allowed"
+export PYTHONDONTWRITEBYTECODE="Don't allow"
+
+echo ""
 echo "Install C9 Desktop related packages"
 sudo pip3 install npm
 sudo apt-get install websockify
