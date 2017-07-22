@@ -31,8 +31,10 @@ echo ""
 echo "No __pycache__ allowed"
 export PYTHONDONTWRITEBYTECODE="Don't allow"
 
+
 echo ""
 echo "Install C9 Desktop related packages"
 sudo pip3 install npm
 sudo apt-get install websockify
+sudo chown -R ubuntu *
 c9 install c9.ide.desktop --force
